@@ -1,0 +1,11 @@
+compound.name,id.zhulab,id.pubchem,ref.mz,rt,polarity
+3-Methoxy-4-Hydroxyphenylglycol Sulfate,L0228,3035420,263.0231,0.98,negative
+1-Methylxanthine,L0216,80220,165.0418,3.17,negative
+N-Acetyl-L-phenylalanine,L0086,74839,206.0822,5.22,negative
+5-Hydroxyhexanoic acid,S0266,170748,131.0713,7.03,negative
+5-Hydroxymethylcytidine,L0264,14367004,272.0889,8.49,negative
+Sebacic acid,S0193,5192,201.1132,10.03,negative
+Suberic acid,S0214,10457,173.0819,11.08,negative
+N-Acetyl-L-aspartic acid,S0246,65065,174.0408,12.28,negative
+N-carbamoyl-L-aspartate,L0084,93072,175.036,13.29,negative
+UDP-D-glucuronate,L0081,17473,579.027,15.34,negative

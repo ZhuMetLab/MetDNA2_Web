@@ -1,0 +1,9 @@
+compound.name,id.zhulab,id.pubchem,ref.mz,rt,polarity
+L-Norleucine,S0209,21236,132.102,1.15,positive
+"3,7-Dimethyluric acid",S0260,83126,197.067,2.42,positive
+L-Abrine,S0131,160511,219.1129,3.58,positive
+Kynurenic acid,S0079,3845,190.0499,4.18,positive
+Liothyronine,L0124,5920,651.7974,5.96,positive
+Flavone,S0084,10680,223.075425,6.75,positive
+9-cis-Retinoic acid,L0361,449171,301.216225,8.93,positive
+Vitamin K2,L0182,5282367,445.3102,9.98,positive

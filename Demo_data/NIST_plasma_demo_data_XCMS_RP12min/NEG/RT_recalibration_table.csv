@@ -1,0 +1,9 @@
+compound.name,id.zhulab,id.pubchem,ref.mz,rt,polarity
+L-Norleucine,S0209,21236,130.0873037,1.14,negative
+"3,7-Dimethyluric acid",S0260,83126,195.0523152,2.39,negative
+L-Abrine,S0131,160511,217.0982028,3.59,negative
+Kynurenic acid,S0079,3845,188.0352681,4.19,negative
+Liothyronine,L0124,5920,649.7827269,5.96,negative
+Capric acid,S0181,2969,171.138975,7.84,negative
+9-cis-Retinoic acid,L0361,449171,299.201575,8.93,negative
+Behenic acid,S0350,8215,339.3268056,10.53,negative

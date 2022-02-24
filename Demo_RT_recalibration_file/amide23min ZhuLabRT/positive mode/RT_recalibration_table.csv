@@ -1,0 +1,11 @@
+compound.name,id.zhulab,id.pubchem,ref.mz,rt,polarity
+4-Pyridoxic acid,L0127,6723,184.0605,0.961,positive
+3'-O-methyladenosine,L0251,82530,282.1197,3.026,positive
+Creatinine,S0042,588,114.0662,4.768,positive
+Nicotinate,S0008,938,124.0393,6.232,positive
+Guanosine,S0071,135398635,284.099,7.775,positive
+N-Acetylcadaverine,S0249,189087,145.1336,9.54,positive
+Beta-Alanine,L0320,239,90.055,10.484,positive
+dAMP,L0140,12599,332.0755,13.179,positive
+gamma-L-Glutamyl-L-glutamic acid,L0352,92865,277.1031,14.074,positive
+"N6,N6,N6-Trimethyl-L-lysine",L0190,440120,189.1598,17,positive
