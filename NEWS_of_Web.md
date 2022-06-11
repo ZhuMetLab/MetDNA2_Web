@@ -1,6 +1,9 @@
 ## NEWS of MetDNA2 Server
 
 #### MetDNA2
+- Jun. 11, 2022: Update to v1.0.7
+	- (1) Fix some bugs
+	- (2) Add required file export for visualization and in-silico MS2
 - Feb. 18, 2022: Unknown annotation function has released
 - Feb. 15, 2022
 - Oct. 29, 2021: Fix some bugs
