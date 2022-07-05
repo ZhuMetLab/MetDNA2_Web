@@ -1,6 +1,9 @@
 ## NEWS of MetDNA2 Server
 
 #### MetDNA2
+- Jul. 5, 2022: Update to v1.0.8
+	- (1) Support mzML and mzXML data format for MS2 data input
+	- (2) Modify the size limit of uploaded data files (500M --> 2G)
 - Jun. 11, 2022: Update to v1.0.7
 	- (1) Fix some bugs
 	- (2) Add required file export for visualization and in-silico MS2
